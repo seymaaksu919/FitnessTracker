@@ -27,7 +27,7 @@ Bu proje, kullanıcıların **adım sayısı, uyku süresi ve su tüketimi** gib
 * Kullanıcıdan **adım sayısı**, **uyku süresi**, **7 günlük su miktarı** girişlerini alır.
 * `FitnessTracker` nesnesi oluşturur ve metodları çağırır.
 * Haftalık su dizisi Scanner ile doldurulur ve `bilgileriYazdirma` metoduna gönderilir.
-* 
+  
 
 **Önemli Noktalar:**
 * Kullanıcı girdileri doğru veri tipine uygun alınmalıdır:
@@ -54,7 +54,7 @@ Günlük Adım sayınızı giriniz: 9000
 Günlük Uyku saatinizi giriniz: 8
 1. Günlük Su miktarını giriniz (litre): 2
 2. Günlük Su miktarını giriniz (litre): 1.5
-...
+
 Haftalık Ortalama Su Kullanımı: 2.31 litre
 Hedef adım sayısı başarılı!
 Uyku Saati Dengeli
