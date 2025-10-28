@@ -16,16 +16,13 @@ Bu proje, kullanıcıların **adım sayısı, uyku süresi ve su tüketimi** gib
 
 
 
-**Metodlar:**
+## 2. Metotlar
 
 1. `adimKontrolu()` → Günlük hedef adım sayısını kontrol eder.
 2. `uykuKontrolu()` → Uyku süresini değerlendirir (7–9 saat dengeli kabul edilir).
 3. `ortalamaSu(double[] haftalikSu)` → Haftalık su dizisini alır, toplamını 7’ye bölerek ortalama hesaplar.
 4. `bilgileriYazdirma(double[] haftalikSu)` → Nesne bilgilerini ve haftalık su ortalamasını ekrana yazdırır.
 
-
-
-### 2.2 `main.java`
 
 * Kullanıcıdan **adım sayısı**, **uyku süresi**, **7 günlük su miktarı** girişlerini alır.
 * `FitnessTracker` nesnesi oluşturur ve metodları çağırır.
